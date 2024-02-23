@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../fullstack"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}

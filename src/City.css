@@ -1,0 +1,9 @@
+.card1{
+    width: 300px;
+    height: 55px;
+    margin:px;
+    
+    text-align: center; 
+    box-shadow: 5px 5px 5px 5px rgb(229, 213, 122) ;
+    /* border: 2px solid black; */
+}
